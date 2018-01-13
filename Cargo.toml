@@ -1,0 +1,6 @@
+[package]
+name = "cntlm-rs"
+version = "0.1.0"
+authors = ["christian.klat <christian.klat@gmail.com>"]
+
+[dependencies]
